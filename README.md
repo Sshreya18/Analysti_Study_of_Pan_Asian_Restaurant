@@ -40,7 +40,7 @@ The study explores **sales trends, workforce efficiency, and food delivery commi
 ## 📜 Reports  
 📌 **[Final](./%5BFinal%5D%20Analysis%20of%20a%20Pan%20Asian%20restaurant%20.pdf)**
 📌 **[Midterm](./%5BMidterm%5D%20Analytic%20Study%20of%20a%20Pan%20Asian%20restaurant.pdf)**  
-📌 **[Proposal Document](./Proposal%20Analytic%20Study%20of%20a%20Pan%20Asian%20Restaurant.pdf)**  
+📌 **[Proposal](./%5BProposal%5D%20Analytic%20Study%20of%20a%20Pan%20Asian%20Restaurant.pdf)**  
 
 ## 🤝 Contributors  
 **Shambhavi Shreya**  
