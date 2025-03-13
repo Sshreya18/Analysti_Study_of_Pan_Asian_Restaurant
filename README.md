@@ -38,7 +38,7 @@ The study explores **sales trends, workforce efficiency, and food delivery commi
    - **Improve workforce stability** through optimized shift planning and incentive programs.  
 
 ## 📜 Reports  
-📌 **[Final Report](./Final%20Analysis%20of%20a%20Pan%20Asian%20Restaurant.pdf)**
+📌 **[[Final] Analysis of a Pan Asian restaurant](./%5BFinal%5D%20Analysis%20of%20a%20Pan%20Asian%20restaurant.pdf)**
 📌 **[Midterm Report](./Midterm%20Analytic%20Study%20of%20a%20Pan%20Asian%20Restaurant.pdf)**  
 📌 **[Proposal Document](./Proposal%20Analytic%20Study%20of%20a%20Pan%20Asian%20Restaurant.pdf)**  
 
